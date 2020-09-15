@@ -1,5 +1,8 @@
 _repo: Warrior-of-Two-Worlds_63097
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63097-h/images/cover.jpg
 creator:
   author:
     agent_name: Wellman, Manly Wade
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25394
     wikipedia: https://en.wikipedia.org/wiki/Manly_Wade_Wellman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63097#Warrior-of-Two-Worlds
 gutenberg_issued: '2020-09-01'
 gutenberg_type: Text
 identifiers:
